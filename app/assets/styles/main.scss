@@ -1,0 +1,12 @@
+:root {
+  --color-primary: #043873;
+  --color-secondary: #FFFFFF;
+  --font-roboto: 'Roboto', sans-serif;
+}
+
+body {
+  color: var(--color-secondary);
+  background-color: var(--color-secondary);
+  font-family: 'Inter', sans-serif;
+  font-size: 18px;
+}
